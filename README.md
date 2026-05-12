@@ -14,9 +14,9 @@ Simulates an autonomous service rover navigating a greenhouse environment. The r
 
 **Operation modes:**
 
-1. **Manual** — keyboard or joystick teleoperation via `geometry_msgs/Twist`
-2. **Target tracking** — visual detection and following of a target using camera input (`sensor_msgs`)
-3. **Autonomous navigation** — goal-based navigation to GPS/metric coordinates with obstacle detection and avoidance
+1. **Manual**: keyboard or joystick teleoperation via `geometry_msgs/Twist`
+2. **Target tracking**: visual detection and following of a target using camera input (`sensor_msgs`)
+3. **Autonomous navigation**: goal-based navigation to GPS/metric coordinates with obstacle detection and avoidance
 
 ---
 
